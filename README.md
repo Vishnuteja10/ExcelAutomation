@@ -1,5 +1,5 @@
 # Excel Automation
-.In this project i automated Excel sheet i.e data from the target Excel sheet is copied to result Excel sheet.
+.In this project i automated Excel sheet i.e data from the target Excel sheet is copied to result Excel sheet.we can specify how much amount of data to be copied.
   
   
 
